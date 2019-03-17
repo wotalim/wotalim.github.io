@@ -77,7 +77,7 @@ a {
   -o-transition: color 0.1s linear, border 0.1s linear, opacity 0.1s linear, background-color 0.1s linear;
   transition: color 0.1s linear, border 0.1s linear, opacity 0.1s linear, background-color 0.1s linear;
 }
-a:hover, a:focus, a:active { text-decoration: none; border: none;color: #2E8B57; }
+a:hover, a:focus, a:active { text-decoration: none; border: none;color: #00adb5; }
 /* MEDIA */
 figure {margin: 0}
 img, object, embed, video {max-width: 100%; _width: 100%} /* Fluid images */
@@ -92,8 +92,8 @@ ins, mark {text-decoration: none}
 mark {background: #c47529}
 ins {background: #d49855}
 del {text-decoration: line-through}
-::-moz-selection {background: #2E8B57; color: #fff; text-shadow: none} /* selected text */
-::selection {background: #2E8B57; color: #fff; text-shadow: none} /* selected text */
+::-moz-selection {background: #00adb5; color: #fff; text-shadow: none} /* selected text */
+::selection {background: #00adb5; color: #fff; text-shadow: none} /* selected text */
 
 /* OTHERS */
 strong, b, dt { font-weight: bold}
