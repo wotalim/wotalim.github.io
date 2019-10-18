@@ -475,7 +475,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 /* Labels */
 .label {
   display: inline;
-  padding: .25em .6em;
+  padding: .25em .9em;
   font-size: 90%;
   font-weight: 500;
   line-height: 1;
